@@ -1,0 +1,9 @@
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\bin\Debug\lab2.exe.config
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\bin\Debug\lab2.exe
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\bin\Debug\lab2.pdb
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.exe
+C:\Users\andri\Desktop\OOP labs\2 lab new new\lab2\obj\Debug\lab2.pdb
